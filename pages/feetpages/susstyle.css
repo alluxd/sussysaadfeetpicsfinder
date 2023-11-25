@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(31, 31, 31);
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 15%;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+    display: block;
+  text-align: center;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
